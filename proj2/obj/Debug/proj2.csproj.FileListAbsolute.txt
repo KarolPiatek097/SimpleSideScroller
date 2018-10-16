@@ -1,0 +1,40 @@
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\proj2.exe.config
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\proj2.exe
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\proj2.pdb
+C:\Users\KaPi\Desktop\proj2\proj2\obj\Debug\proj2.csprojAssemblyReference.cache
+C:\Users\KaPi\Desktop\proj2\proj2\obj\Debug\proj2.csproj.CoreCompileInputs.cache
+C:\Users\KaPi\Desktop\proj2\proj2\obj\Debug\proj2.exe
+C:\Users\KaPi\Desktop\proj2\proj2\obj\Debug\proj2.pdb
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\csfml-audio-2.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\csfml-graphics-2.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\csfml-system-2.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\csfml-window-2.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\libsndfile-1.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\openal32.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\OpenTK.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\sfmlnet-system-2.dll
+C:\Users\KaPi\Desktop\proj2\proj2\bin\Debug\sfmlnet-window-2.dll
+C:\Users\KaPi\Desktop\proj2\proj2\obj\Debug\proj2.csproj.CopyComplete
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\csfml-audio-2.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\csfml-graphics-2.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\csfml-system-2.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\csfml-window-2.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\libsndfile-1.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\openal32.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\OpenTK.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\proj2.exe.config
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\proj2.exe
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\proj2.pdb
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\sfmlnet-system-2.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\bin\Debug\sfmlnet-window-2.dll
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\obj\Debug\proj2.csprojAssemblyReference.cache
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\obj\Debug\proj2.csproj.CoreCompileInputs.cache
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\obj\Debug\proj2.csproj.CopyComplete
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\obj\Debug\proj2.exe
+C:\Users\KaPi\Desktop\Simple Side Scroller\proj2\obj\Debug\proj2.pdb
